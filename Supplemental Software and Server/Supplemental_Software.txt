@@ -1,0 +1,7 @@
+Supplemental Software and Server Maintenance
+
+Patches installed were Homebrew for Python3
+
+Patches for video tutorial was VMware for Ubuntu
+
+Xcode application was installed to use Homebrew as a dependency to run Python on Terminal.
